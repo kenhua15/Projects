@@ -20,9 +20,11 @@ Presentation slides shown to rest of class and detailed riteup of project scope 
 
 Folder containing tableau workbooks used to generate data visualizations:
 
-Geographical: https://public.tableau.com/app/profile/kenneth.hua6635/viz/GeoMapofDiff/Sheet1
-Line Graph: https://public.tableau.com/app/profile/kenneth.hua6635/viz/LineGraph_16336628989620/Sheet1
-Top 15 Bar Graph: https://public.tableau.com/app/profile/kenneth.hua6635/viz/BarGraph_16334107740740/Sheet1
-Bottom 15 Bar Graph: https://public.tableau.com/app/profile/kenneth.hua6635/viz/Bottom/Sheet1
+1. Geographical: https://public.tableau.com/app/profile/kenneth.hua6635/viz/GeoMapofDiff/Sheet1
+2. Line Graph: https://public.tableau.com/app/profile/kenneth.hua6635/viz/LineGraph_16336628989620/Sheet1
+3. Top 15 Bar Graph: https://public.tableau.com/app/profile/kenneth.hua6635/viz/BarGraph_16334107740740/Sheet1
+4. Bottom 15 Bar Graph: https://public.tableau.com/app/profile/kenneth.hua6635/viz/Bottom/Sheet1
+
+
 author: @kenhua15
 
