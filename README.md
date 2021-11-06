@@ -13,3 +13,9 @@ I used Sentiment Analysis and NLP to build features from Yelp Review Comments. T
 #### Project 3: Predicting Real Estate Growth w/ Tableau
 
 As part of the Business Module, I used Tableau to visualize trends and mapping from Zillow Open API data. I created geographical mappings and other visuals to understand the housing growth trends in U.S Metropolitan Areas, to identify areas with high growth for investment.
+
+#### Project 4: Machine Learning Classification for Credict Card Customer Churn 
+
+I used traditional, supervised machine learning classifiers to predict credit card customer churn. I tested out Logistic Regression,
+kNNeighbors, Decision Tree Classifier, Random Forest, AdaBoost, Naive Bayes, and XGBoost. After baselining, I optimized an XGBoost model 
+using hyperparameter optimization.

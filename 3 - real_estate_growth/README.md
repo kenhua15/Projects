@@ -1,6 +1,6 @@
 
 
-## Metis Project 3: Prediciting Real Estate Growth w/ Tableau  
+## Metis Project 3: Predicting Real Estate Growth w/ Tableau  
 
 #### This project is part of the Metis Web Scraping and Regression module.
 
@@ -14,7 +14,7 @@ In this project, I am using Zillow Open API data to determine the top 5 high gro
 
 #### docs
 
-Presentation slides shown to rest of class and detailed riteup of project scope and solution
+Presentation slides shown to rest of class and detailed writeup of project scope and solution
 
 ### tableau
 
