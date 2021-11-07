@@ -12,6 +12,7 @@ using hyperparameter optimization.
 2. mod_preparedata.py: Modules to load, clean, and process data for models. Includes train test split and categorical feature transformation.
 3. mod4_models.py: Modules to train classification models, includes model screening and hyperparameter optimization.
 4. mod4_plotting_evaluation.py: Modules for plotting and evaluation, including ROC curves, decision boundaries, metrics, and confusion matrix.
+5. main.py & mod4_eda: Data exploration
 
 #### docs
 
