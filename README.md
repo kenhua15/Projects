@@ -23,3 +23,7 @@ using hyperparameter optimization.
 #### Project 5: Amazon Recommendation System
 
 I built an end to end Book recommendation system from Amazon review data. I used NLP (NLTK, TextBlob, Flair) to analyze sentiment in Amazon review data. From these sentiments, I was able to build a collaborative filtering model that was trained using Neural Networks. The model is able to provide predictions on user-book interactions, and allows the system to recommend books to users that they have not read on. Examples are shown in the directory.
+
+#### Project 6: Youtube API Popular Title Generator
+
+I built an LSTM model using Pytorch to generate popular titles for Youtube videos, when given a seed phrase. 
