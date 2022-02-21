@@ -27,3 +27,7 @@ I built an end to end Book recommendation system from Amazon review data. I used
 #### Project 6: Youtube API Popular Title Generator
 
 I built an LSTM model using Pytorch to generate popular titles for Youtube videos, when given a seed phrase. 
+
+#### Project 7: AWS Training and Deployment of Housing Price Predictor
+
+Using various AWS services and Flask API, I trained and deployed a model to perform Housing Price Predictions.

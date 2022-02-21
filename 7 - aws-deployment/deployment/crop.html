@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+
+<style>
+
+    html body {
+      background-color: rgb(206, 206, 228);
+
+      
+  }
+
+  
+</style>
+<!--Form Section-->
+<br /><br />
+<h2 style="text-align: center; margin: 0px; color: black">
+  <b>Find out the housing price</b>
+</h2>
+<br />
+
+<div
+  style="
+    width: 350px;
+    height: 50rem;
+    margin: 0px auto;
+    color: black;
+    border-radius: 25px;
+    padding: 10px 10px;
+  "
+>
+  <form method="POST" action="{{ url_for('crop_prediction') }}">
+    <div class="form-group">
+      <label for="Bath" style="font-size: 17px"><b>Bathrooms</b></label>
+      <input
+        type="number"
+        class="form-control"
+        id="Bath"
+        name="bath"
+        placeholder="Enter the value (example:2)"
+        style="font-weight: bold"
+        required
+      />
+    </div>
+    <div class="form-group">
+      <label for="Bed" style="font-size: 17px"
+        ><b>Bedrooms</b></label
+      >
+      <input
+        type="number"
+        class="form-control"
+        id="Bed"
+        name="bed"
+        placeholder="Enter the value (example:2)"
+        style="font-weight: bold"
+        required
+      />
+    </div>
+
+    <div class="form-group">
+      <label for="Area" style="font-size: 17px"><b>Living Area</b></label>
+      <input
+        type="number"
+        class="form-control"
+        id="Area"
+        name="area"
+        placeholder="Enter the value (example:50)"
+        style="font-weight: bold"
+        required
+      />
+    </div>
+
+    <div class="d-flex justify-content-center">
+      <button
+        type="submit"
+        class="btn btn-info"
+        style="color: black; font-weight: bold; width: 130px; height:50px; border-radius:12px; font-size: 21px;"
+      >
+        Predict
+      </button>
+    </div>
+  </form>
+</div>
+
+</html>
+
+
